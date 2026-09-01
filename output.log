@@ -1,0 +1,705 @@
+Starting character search for Gruppo 01...
+============================================================
+
+Processing: Antologia di Supergulp! (antologia-di-supergulp)
+  Found MAL URL: https://myanimelist.net/anime/1728/Super_GALS_Kotobuki_Ran
+  Found 22 characters
+  Successfully added 20 characters with verified images
+
+Processing: Fantasupermega (fantasupermega)
+  Skipping - no MAL mapping available (likely Italian production)
+
+Processing: Una porta socchiusa ai confini del sole (una-porta-socchiusa-ai-confini-del-sole)
+  Skipping - no MAL mapping available (likely Italian production)
+
+Processing: la canzone di charlotte (la-canzone-di-charlotte)
+  Skipping - no MAL mapping available (likely Italian production)
+
+Processing: Fantazoo (fantazoo)
+  Skipping - no MAL mapping available (likely Italian production)
+
+Processing: Marsupilami (marsupilami)
+  Found MAL URL: https://myanimelist.net/anime/3399/Rokushin_Gattai_GodMars
+  Found 19 characters
+  Successfully added 19 characters with verified images
+
+Processing: 80 sogni per viaggiare (80-sogni-per-viaggiare)
+  Found MAL URL: https://myanimelist.net/anime/2579/Anime_80-nichikan_Sekai_Isshuu
+  Found 61 characters
+  Successfully added 20 characters with verified images
+
+Processing: All'arrembaggio Sandokan (all-arrembaggio-sandokan)
+  Found MAL URL: https://myanimelist.net/anime/40787/Josee_to_Tora_to_Sakana-tachi
+  Found 10 characters
+  Successfully added 10 characters with verified images
+
+Processing: Belle e Sebastien (belle-e-sebastien)
+  Found MAL URL: https://myanimelist.net/anime/3425/Meiken_Lassie
+  Found 7 characters
+  Successfully added 7 characters with verified images
+
+Processing: Caccia al tesoro con Montana (caccia-al-tesoro-con-montana)
+  Found MAL URL: https://myanimelist.net/anime/3313/Montana_Jones
+  Found 32 characters
+  Successfully added 20 characters with verified images
+
+Processing: Coccinella (coccinella)
+  Found MAL URL: https://myanimelist.net/anime/6397/Tentoumushi_no_Uta
+  Found 8 characters
+  Successfully added 8 characters with verified images
+
+Processing: Col vento in poppa verso l'avventura (col-vento-in-poppa-verso-l-avventura)
+  Found MAL URL: https://myanimelist.net/anime/40594/Tatoeba_Last_Dungeon_Mae_no_Mura_no_Shounen_ga_Joban_no_Machi_de_Kurasu_Youna_Monogatari
+  Found 14 characters
+  Successfully added 14 characters with verified images
+
+Processing: Com'e' grande l'America (com-e-grande-l-america)
+  Found MAL URL: https://myanimelist.net/anime/2813/Chiisana_Ahiru_no_Ooki_na_Ai_no_Monogatari__Ahiru_no_Kwak
+  Found 8 characters
+  Successfully added 8 characters with verified images
+
+Processing: D'Artacan e i tre moschettieri (d-artacan-e-i-tre-moschettieri)
+  Found MAL URL: https://myanimelist.net/anime/607/Otogi_Juushi_Akazukin
+  Found 16 characters
+  Successfully added 16 characters with verified images
+
+Processing: D'Artagnan e i Moschettieri del Re (d-artagnan-e-i-moschettieri-del-re)
+  Found MAL URL: https://myanimelist.net/anime/3761/Wanwan_Sanjuushi
+  Found 2 characters
+  Successfully added 2 characters with verified images
+
+============================================================
+Final JSON result:
+{
+  "antologia-di-supergulp": {
+    "title": "Antologia di Supergulp!",
+    "personaggi": [
+      {
+        "nome": "Aya Hoshino",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/11/61720.jpg?s=5af0304f9507945982e4da5b93ff9901"
+      },
+      {
+        "nome": "Ran Kotobuki",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/15/31027.jpg?s=ddeae96e63bf6330ae73bda3751f729c"
+      },
+      {
+        "nome": "Tatsuki Kuroi",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/7/52415.jpg?s=df0cd305b3696d58a558c39701c5d89d"
+      },
+      {
+        "nome": "Rei Otohata",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/14/61721.jpg?s=390051fcc32febe5375c3d9a13188521"
+      },
+      {
+        "nome": "Miyu Yamazaki",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/6/62470.jpg?s=cb13db7bced056fcf133f29532c2a835"
+      },
+      {
+        "nome": "Rie Aihara",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/14/478051.jpg?s=7879f19d2029d19014222d9f7608cebb"
+      },
+      {
+        "nome": "Yuya Asou",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/9/5638.jpg?s=c901dcb712ae5884029bd9119b358f64"
+      },
+      {
+        "nome": "Harue",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/3/22759.jpg?s=735b8814c7e0bb4fef3503e24dda02af"
+      },
+      {
+        "nome": "Towa Himejima",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/7/258449.jpg?s=a2904a93e943a69d4b7249845981ea87"
+      },
+      {
+        "nome": "Mami Honda",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/15/52453.jpg?s=df9e8e9af47b4ac699340caa021457b0"
+      },
+      {
+        "nome": "Satsuki Iida",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/6/628065.jpg?s=7b70ff74b443813629222ec1f1b21c93"
+      },
+      {
+        "nome": "Masato Iwai",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/3/477965.jpg?s=ab6fd8b0162f1766ba9f1fe6d38fe21c"
+      },
+      {
+        "nome": "Kazuki Katase",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/3/628064.jpg?s=1c7671779fe9b359d55a87d44adc0b25"
+      },
+      {
+        "nome": "Sayo Kotobuki",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/10/17654.jpg?s=010883feb74d3ca7c545b4f27d5af1d7"
+      },
+      {
+        "nome": "Kiyoka Kotobuki",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/5/618568.jpg?s=9b926ec158771798a4777fa980516f46"
+      },
+      {
+        "nome": "Taizou Kotobuki",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/6/216407.jpg?s=8121f0b00f73e090ff27b4facbb085c4"
+      },
+      {
+        "nome": "Yamato Kotobuki",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/3/136317.jpg?s=1b45ff52f525f913e1ad88ab2adf97de"
+      },
+      {
+        "nome": "Naoki Kuroi",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/8/457426.jpg?s=fb443f01ba4551f4594e77be25e32c97"
+      },
+      {
+        "nome": "Rika",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/15/120593.jpg?s=943815d24329a2d742e3047d372d6c90"
+      },
+      {
+        "nome": "Tan Face Blue",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      }
+    ]
+  },
+  "marsupilami": {
+    "title": "Marsupilami",
+    "personaggi": [
+      {
+        "nome": "Flore",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/6/382593.jpg?s=9aaa5e70f70426d4994ce146a4ed766a"
+      },
+      {
+        "nome": "Marg",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/7/238149.jpg?s=83f3da53b5b98693723d0306883f21e8"
+      },
+      {
+        "nome": "Takeru Myoujin",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/8/210993.jpg?s=e859b42a3124db910607653e65d76fef"
+      },
+      {
+        "nome": "Rosee",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/8/237785.jpg?s=2f1d9ec8d68db374e1dda05c27ff1e9d"
+      },
+      {
+        "nome": "Emperor Xul",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/6/238145.jpg?s=4439e5504c2c4ea40796331c7a93ffde"
+      },
+      {
+        "nome": "Aida",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Namida Akashi",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/14/87375.jpg?s=eb7fd156907366d54edafde0c0e07d61"
+      },
+      {
+        "nome": "Kenji Asuka",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/8/87376.jpg?s=baa3c9ec3cbb50ddbc04f28a0ee4ff93"
+      },
+      {
+        "nome": "Dr Myoujin",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Edea",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Gasshu",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/8/87381.jpg?s=09bf3da2f7cabbdae1e2c4b4d6fd4a53"
+      },
+      {
+        "nome": "Gyron",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/5/87382.jpg?s=1583f7ac2fab8cd650519e39147ceda2"
+      },
+      {
+        "nome": "Mika Hyuga",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/3/238151.jpg?s=35dd6ef1085d212f8d6b0d0d661bac1a"
+      },
+      {
+        "nome": "Naoto Ijuin",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/4/87372.jpg?s=027c2b169ef50e37672574e5fc0cfcb0"
+      },
+      {
+        "nome": "Akira Kiso",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/13/238153.jpg?s=c3f3faf1180673643a300f20e397f459"
+      },
+      {
+        "nome": "Shizuko Myoujin",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/8/238147.jpg?s=8fc77bbb8db3e37ee93a036917f51818"
+      },
+      {
+        "nome": "Shigeru Otsuka",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/13/87377.jpg?s=dac57566dec67d8ff75507ebe25b41f4"
+      },
+      {
+        "nome": "Sagule",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Warl",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      }
+    ]
+  },
+  "80-sogni-per-viaggiare": {
+    "title": "80 sogni per viaggiare",
+    "personaggi": [
+      {
+        "nome": "Chico",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/11/389514.jpg?s=b6ddc977ff0332017e239502bd6e228e"
+      },
+      {
+        "nome": "Willy Fog",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/11/389511.jpg?s=756f0c12189f530d3c8244d3ec120f45"
+      },
+      {
+        "nome": "Princess Romy",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/10/389512.jpg?s=236c0c9e45a52c8579f88ab6e2958ee8"
+      },
+      {
+        "nome": "Rigodon",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/2/389513.jpg?s=4646757fb8390254a51aced7e391a327"
+      },
+      {
+        "nome": "Jed Armstrong",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/5/593253.jpg?s=783876a82810728600661cf6eaeee678"
+      },
+      {
+        "nome": "Boat Owner",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/10/593240.jpg?s=432ba8b84595a028c38a266cfa91a83b"
+      },
+      {
+        "nome": "Bombay Police Chief",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/7/593182.jpg?s=d44c98d188f93b34141089b4d4485645"
+      },
+      {
+        "nome": "Bookmaker",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/6/593175.jpg?s=0c513422f887e7e20a503a93fc14cb2f"
+      },
+      {
+        "nome": "Bartholomew Bottomley",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/14/593178.jpg?s=c3fc74dcc72c5a971f42684fa6dda3d7"
+      },
+      {
+        "nome": "Brigadier Corn",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/5/593159.jpg?s=f4d185b250a7a54d5e336f1a79e86672"
+      },
+      {
+        "nome": "Calm Buffalo",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/3/593252.jpg?s=04fbc64ae431ce99a31ecd22c1a92e37"
+      },
+      {
+        "nome": "Bullman",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/15/593248.jpg?s=434f2ed085c01986e26651e262ed6384"
+      },
+      {
+        "nome": "Calcutta Police Commissioner",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/3/593219.jpg?s=caa673a77b0379539e468eabbcd54c5b"
+      },
+      {
+        "nome": "Captain of the Carnatic",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/16/593235.jpg?s=d50be3d6d297598479b588a8b25f5ff5"
+      },
+      {
+        "nome": "Captain of the Mongolia",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/6/593181.jpg?s=8e62d9bcae4de2956f6e36f9c2938b39"
+      },
+      {
+        "nome": "Circus Manager",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/5/593236.jpg?s=5ff3ec3d70b186f284fb9e1d8d357c67"
+      },
+      {
+        "nome": "Coachman",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/4/593244.jpg?s=1a31bdaf425f183c58cf67b851073aac"
+      },
+      {
+        "nome": "Colonel Armstrong",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/16/593222.jpg?s=2359e64fd3de0c9686ca18d31afba103"
+      },
+      {
+        "nome": "Commissioner Rowan",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/14/389515.jpg?s=edf10be5abfad02faeaddb2c74054a13"
+      },
+      {
+        "nome": "Constable Bully",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/14/552504.jpg?s=034c78c07194df77f4119e71fe5a3532"
+      }
+    ]
+  },
+  "all-arrembaggio-sandokan": {
+    "title": "All'arrembaggio Sandokan",
+    "personaggi": [
+      {
+        "nome": "Josee",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/10/441918.jpg?s=8e9b64d778fe3f9954cb5b4155176ced"
+      },
+      {
+        "nome": "Tsuneo Suzukawa",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/6/458135.jpg?s=75fe2f8f03fe65f505cb3a030aefc8ad"
+      },
+      {
+        "nome": "Fujita",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/2/618134.jpg?s=01eaf6abd4c8d371d1712405c3bf37b2"
+      },
+      {
+        "nome": "Kana Kishimoto",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/12/458123.jpg?s=c48c7aee0c1fa58942dfb7f364a0b101"
+      },
+      {
+        "nome": "Kondou",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/2/573427.jpg?s=94a37a105a4c88523f8a84e14c88b901"
+      },
+      {
+        "nome": "Manager Nishida",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/9/573425.jpg?s=2f583f796e549b1d7b60c4a5dc701032"
+      },
+      {
+        "nome": "Hayato Matsuura",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/2/458134.jpg?s=bf97dd8d3aa4b41694f869776286d420"
+      },
+      {
+        "nome": "Mizushima",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/2/573426.jpg?s=245f632874551b7f2e19378016f2d3aa"
+      },
+      {
+        "nome": "Mai Ninomiya",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/7/458137.jpg?s=e399cb12d45f464ea2da0983e177c907"
+      },
+      {
+        "nome": "Chizu Yamamura",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/5/458136.jpg?s=68a4893a010da689220a46832896d025"
+      }
+    ]
+  },
+  "belle-e-sebastien": {
+    "title": "Belle e Sebastien",
+    "personaggi": [
+      {
+        "nome": "John Carraclough",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/10/402164.jpg?s=bcd36df78d9cd50794b810488ab07fa0"
+      },
+      {
+        "nome": "Lassie",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/10/402167.jpg?s=d5e3f57d557f922c9669eb5dae019707"
+      },
+      {
+        "nome": "Sam Carraclough",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/7/402170.jpg?s=d781e0bc6622ab5f66fefff4ffbc49d0"
+      },
+      {
+        "nome": "Melissa Carraclough",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/13/402169.jpg?s=9450e073a662b3a350ee257743f03552"
+      },
+      {
+        "nome": "Colin Jones",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/2/402168.jpg?s=714b345d5253c83391add88ee33b7680"
+      },
+      {
+        "nome": "Sandy Monaghan",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/14/402171.jpg?s=909c28b34235217d9e85cc8f8ecec14c"
+      },
+      {
+        "nome": "Priscilla Rudling",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/8/457680.jpg?s=aa9ef17ab5d1bdfe76eda42a2e56bc9c"
+      }
+    ]
+  },
+  "caccia-al-tesoro-con-montana": {
+    "title": "Caccia al tesoro con Montana",
+    "personaggi": [
+      {
+        "nome": "Montana Jones",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/5/389789.jpg?s=69a3be9a1c9dee38d7307f900905eba0"
+      },
+      {
+        "nome": "Alfred Jones",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/11/592075.jpg?s=27083c965fc31228059598aa543b6192"
+      },
+      {
+        "nome": "Lord Zero",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/3/592076.jpg?s=92ecfe2e3abb2877ff8f66fd29c525d6"
+      },
+      {
+        "nome": "Melissa Sone",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/6/592078.jpg?s=699279fadb0072ad595e9e1bb803593c"
+      },
+      {
+        "nome": "Ahmed",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/4/592389.jpg?s=b5649e0ca8c0baf0782b853973605e07"
+      },
+      {
+        "nome": "Chinatown Henchman",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/4/593198.jpg?s=a5b2d20b63ac1ddbc7580974c15ad7bc"
+      },
+      {
+        "nome": "Choda",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/14/592081.jpg?s=8661cdbf61c86223b0aa93a473917864"
+      },
+      {
+        "nome": "Colonel",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/14/593315.jpg?s=a75f3e23e1954cd81df1394349437cd3"
+      },
+      {
+        "nome": "Doctor Nitro",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/15/592080.jpg?s=02a0136ad217b62f35f1e0650cbccc28"
+      },
+      {
+        "nome": "Duncan",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/4/593863.jpg?s=444bd85f86cbef23534a6bbe80ac7eac"
+      },
+      {
+        "nome": "Hans",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/16/594659.jpg?s=0af67b1253c5216a4da552460c2563a7"
+      },
+      {
+        "nome": "Ariel Highlanders",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/12/593862.jpg?s=f82c6eef83af59faea5096decef42776"
+      },
+      {
+        "nome": "HongKong Lady",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/13/593197.jpg?s=96d8b1d84db84747a7565e2c418c35fa"
+      },
+      {
+        "nome": "Huan",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/6/592709.jpg?s=fd78dce7708e52203d8d012922261406"
+      },
+      {
+        "nome": "Jobpur",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/4/593196.jpg?s=fe65ec8e3f441b141d056c9871628e43"
+      },
+      {
+        "nome": "Agatha Jones",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/4/592077.jpg?s=19baeddefa35920a4560940e4f40d258"
+      },
+      {
+        "nome": "King Mtawi",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/9/593603.jpg?s=be4929b02ebed45aaba96ab73aca42cc"
+      },
+      {
+        "nome": "Kinou",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/12/595963.jpg?s=a54c9efb2497a325c075319aff307694"
+      },
+      {
+        "nome": "Kubilay",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/12/593860.jpg?s=fffb6c3ab40ff8b3e9320e91564766a2"
+      },
+      {
+        "nome": "Lichi",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/10/594508.jpg?s=c1cbc3a5b1cdd66f52c7a3eaa6ed50b1"
+      }
+    ]
+  },
+  "coccinella": {
+    "title": "Coccinella",
+    "personaggi": [
+      {
+        "nome": "Kintaro Isshuu",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Tsuchimaru Isshuu",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Mokusuke Isshuu",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Kaji Isshuu",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Mizuo Isshuu",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Tsukimi Isshuu",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Soroku",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Yoichi",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      }
+    ]
+  },
+  "col-vento-in-poppa-verso-l-avventura": {
+    "title": "Col vento in poppa verso l'avventura",
+    "personaggi": [
+      {
+        "nome": "Lloyd Belladonna",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/9/403753.jpg?s=09fb83a06a49edbc68a787c8b54149e1"
+      },
+      {
+        "nome": "Alan",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/6/436167.jpg?s=47ff5da87dde579e5f96c02e30bfafe4"
+      },
+      {
+        "nome": "Alka",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/16/628956.jpg?s=341b7d3c1d73762fce0a3e591ed0f52e"
+      },
+      {
+        "nome": "Rol Calcife",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Chrome",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/14/478516.jpg?s=7282a2b2520feac45b5e6f3808607e58"
+      },
+      {
+        "nome": "Colin",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/7/478517.jpg?s=f955a2d094296f272590b9caa35bfc21"
+      },
+      {
+        "nome": "Eug",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/8/476744.jpg?s=a021d667e45660453678208d5931c55a"
+      },
+      {
+        "nome": "Riho Flavin",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/4/403757.jpg?s=ef9f3a3b41a3a80c2f2d4554269d5d3f"
+      },
+      {
+        "nome": "Seren Hemuaen",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/2/403758.jpg?s=8302f562443cc8a742d581071dbf32b3"
+      },
+      {
+        "nome": "Marie",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/5/403756.jpg?s=f227c4eead89380d8ab9f976e54a948f"
+      },
+      {
+        "nome": "Meltfan",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/14/437718.jpg?s=5704d92741f931cda9eaace8b832a45a"
+      },
+      {
+        "nome": "Mena",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/13/478518.jpg?s=6882e9f58c330116a848524fa478a6f9"
+      },
+      {
+        "nome": "Philo Quinone",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/3/403755.jpg?s=9a549b1329b8c43c9e5000bce892a006"
+      },
+      {
+        "nome": "Shouma",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/3/439793.jpg?s=5f4aa319dae4859c0cbf85d33f81ebc2"
+      }
+    ]
+  },
+  "com-e-grande-l-america": {
+    "title": "Com'e' grande l'America",
+    "personaggi": [
+      {
+        "nome": "Henk",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/10/113124.jpg?s=785155c3d75e2324a2c61ffce26686d6"
+      },
+      {
+        "nome": "Alfred Jodocus Kwak",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/10/113125.jpg?s=35f8aeb32db1cfd51e57dc8e8344556f"
+      },
+      {
+        "nome": "Dolf",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/14/113126.jpg?s=1424d30c33f0309b9e0ee9a65dc69c6b"
+      },
+      {
+        "nome": "Lispel",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/7/588254.jpg?s=b2a4af2c7edc4495e9779b57400b4f8a"
+      },
+      {
+        "nome": "Ollie",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Pikkie",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/4/634645.jpg?s=0e596259bb3734996fd46d71d18fa0c3"
+      },
+      {
+        "nome": "Professor Paljas",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/6/17053.jpg?s=cdaac98784c84e05183ebfe3d55e098b"
+      },
+      {
+        "nome": "Winnie",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/5/17052.jpg?s=333c3c7427f5d250a683da8e19d046fb"
+      }
+    ]
+  },
+  "d-artacan-e-i-tre-moschettieri": {
+    "title": "D'Artacan e i tre moschettieri",
+    "personaggi": [
+      {
+        "nome": "Akazukin",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/15/88550.jpg?s=278a9f17735fc8614e44f7f8e256548a"
+      },
+      {
+        "nome": "Ibara-hime",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/5/77936.jpg?s=493c2cadbabca1ef68ee1c5a9dfbc74e"
+      },
+      {
+        "nome": "Ringo Kinoshita",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/8/105403.jpg?s=2d8c83841ae8e81590f0902a7879f9ad"
+      },
+      {
+        "nome": "Shirayuki-hime",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/5/88551.jpg?s=044ea9bac032269bdc77e6bcc8e8bb49"
+      },
+      {
+        "nome": "Souta Suzukaze",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/8/105468.jpg?s=faa0c40808d8ddddc0dd7a9a2f541044"
+      },
+      {
+        "nome": "Val",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/6/105469.jpg?s=65ce5d748a9ea9f7d7a8479d9abf2ea8"
+      },
+      {
+        "nome": "Cane",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Cendrillon",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/7/105464.jpg?s=c6c41a1109e5b370d2679ae0e9bef702"
+      },
+      {
+        "nome": "Dietmarsh",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Gretel",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/4/105472.jpg?s=999214314d8a9a3e036fa4c5b8560bc6"
+      },
+      {
+        "nome": "Hamelin",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/3/105460.jpg?s=f6045839d417947319915177f069abfc"
+      },
+      {
+        "nome": "Hansel",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/14/105412.jpg?s=359cffad38c86bc9e97fea77dc55caaa"
+      },
+      {
+        "nome": "Yuuki Hoshino",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+      },
+      {
+        "nome": "Ouji",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/15/535643.jpg?s=b1a0bca904c808da2435b40bf8830982"
+      },
+      {
+        "nome": "Randarjo",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/7/105499.jpg?s=ca7ad99025895b829d7cbe3eeaa6cff2"
+      },
+      {
+        "nome": "Trude",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/6/105459.jpg?s=800bbe328d273ade527074babb3f0db8"
+      }
+    ]
+  },
+  "d-artagnan-e-i-moschettieri-del-re": {
+    "title": "D'Artagnan e i Moschettieri del Re",
+    "personaggi": [
+      {
+        "nome": "Charles de Batz de Castelmore DArtagnan",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/16/562048.jpg?s=869f90fd4671032e63234e41fade08ea"
+      },
+      {
+        "nome": "Pip",
+        "url": "https://cdn.myanimelist.net/r/225x350/images/characters/6/446383.jpg?s=9d2ab66d9d518fb94bc0e2e3aaba4e24"
+      }
+    ]
+  }
+}
